@@ -1,0 +1,4 @@
+The core Idea of Agentic AI is to search for relevant context using provided tools (tools can be online search or any other function defined to get the relevant docs)
+if the current vector database doesn't have related context.
+
+To Search Online we can use duckduckgo-search as tool.
